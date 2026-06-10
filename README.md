@@ -3,7 +3,6 @@
 Java console-based application developed for CodeAlpha Internship.
 
 ## Features
-
 - Add Student
 - View Students
 - Search Student
@@ -13,12 +12,10 @@ Java console-based application developed for CodeAlpha Internship.
 - Grade Calculation
 
 ## Technologies
-
 - Java
 - OOP
 - ArrayList
 - Scanner
 
 ## Author
-
 Bhargav Venkata Sai
