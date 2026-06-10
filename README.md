@@ -4,22 +4,22 @@
 
 Java console-based application developed for CodeAlpha Internship.
 
-** Features **
+## Features 
 
- Add Student
- View Students
- Search Student
- Calculate Average Marks
- Highest Marks
- Lowest Marks
- Grade Calculation
++ Add Student
++ View Students
++ Search Student
++ Calculate Average Marks
++ Highest Marks
++ Lowest Marks
++ Grade Calculation
 
-** Technologies **
+## Technologies
 
- Java
- OOP
- ArrayList
- Scanner
++ Java
++ OOP
++ ArrayList
++ Scanner
 
-** Author **
+## Author
 Bhargav Venkata Sai
